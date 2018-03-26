@@ -21,15 +21,10 @@ namespace ex2
 
         }
 
-       
-
-        
-
         private void pictureBox1_Paint(object sender, PaintEventArgs e)
         {
 
         }
-
         private void pictureBox1_MouseClick(object sender, MouseEventArgs e)
         {
             
