@@ -1,0 +1,7 @@
+USER:A. Score:5
+USER:s. Score:0
+USER:Alexandra. Score:20
+USER:Alex. Score:40
+USER:Alexandra. Score:25
+USER:Example. Score:5
+USER:Hello. Score:35

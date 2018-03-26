@@ -1,0 +1,5 @@
+/Users/alexandra/Documents/LAB1/lab1/Triangle/obj/x86/Debug/Triangle.csproj.CoreCompileInputs.cache
+/Users/alexandra/Documents/LAB1/lab1/Triangle/bin/Debug/Triangle.exe
+/Users/alexandra/Documents/LAB1/lab1/Triangle/bin/Debug/Triangle.pdb
+/Users/alexandra/Documents/LAB1/lab1/Triangle/obj/x86/Debug/Triangle.exe
+/Users/alexandra/Documents/LAB1/lab1/Triangle/obj/x86/Debug/Triangle.pdb
