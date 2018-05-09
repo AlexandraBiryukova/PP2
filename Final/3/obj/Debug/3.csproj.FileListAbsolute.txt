@@ -1,0 +1,10 @@
+C:\Users\alexb\source\repos\Final\3\bin\Debug\3.exe.config
+C:\Users\alexb\source\repos\Final\3\bin\Debug\3.exe
+C:\Users\alexb\source\repos\Final\3\bin\Debug\3.pdb
+C:\Users\alexb\source\repos\Final\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+C:\Users\alexb\source\repos\Final\3\obj\Debug\_3.Form1.resources
+C:\Users\alexb\source\repos\Final\3\obj\Debug\_3.Properties.Resources.resources
+C:\Users\alexb\source\repos\Final\3\obj\Debug\3.csproj.GenerateResource.Cache
+C:\Users\alexb\source\repos\Final\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Final\3\obj\Debug\3.exe
+C:\Users\alexb\source\repos\Final\3\obj\Debug\3.pdb

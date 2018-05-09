@@ -1,0 +1,5 @@
+/Users/alexandra/Projects/Final/1/bin/Debug/1.exe
+/Users/alexandra/Projects/Final/1/bin/Debug/1.pdb
+/Users/alexandra/Projects/Final/1/obj/x86/Debug/1.csproj.CoreCompileInputs.cache
+/Users/alexandra/Projects/Final/1/obj/x86/Debug/1.exe
+/Users/alexandra/Projects/Final/1/obj/x86/Debug/1.pdb
